@@ -1,2 +1,2 @@
 # Imageslider-using-jQuery
-https://soumyajit-web.github.io/Imageslider-using-jQuery/
+https://soumyajit-webdev.github.io/Imageslider-using-jQuery/
